@@ -38,6 +38,7 @@ Live interactive visualizations are available in Google Colab.
 ## ⚙️ Installation & Setup
 
 1. Clone this repository
+
 git clone https://github.com/Nishanth-G-Palaniswami/MetroScan-NYC-Subway-Ridership-and-Delay-Detection.git
 
 cd MetroScan-NYC-Subway-Ridership-and-Delay-Detection
