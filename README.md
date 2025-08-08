@@ -50,12 +50,12 @@ pip install -r requirements.txt
 3. Run in Colab
 Click the "Open in Colab" badge above and follow the notebook cells.
 
-📊 Data
+## 📊 Data
 Source: [NYC MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
 
 Data is not included in the repo due to size. The notebook automatically downloads and processes it.
 
-🚀 Usage
+## 🚀 Usage
 Open the notebook in Colab.
 
 Run all cells to:
@@ -68,7 +68,7 @@ Cluster stations based on patterns
 
 Predict delays using GBT
 
-🛠 Requirements
+## 🛠 Requirements
 Python 3.8+
 
 PySpark
@@ -83,10 +83,10 @@ PyArrow
 
 (See requirements.txt for full list)
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License
 
-👤 Author
+## 👤 Author
 Nishanth Ganapathy Palaniswami
 
 📧 ng3124@nyu.edu
